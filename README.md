@@ -17,11 +17,7 @@
   </a>
 </p>
 
-> College Factions is an idea that I came up with in 2018, but never had time to actually execute. Over the time, I went through a bunch of hoops to be able to make it an actual reality now. It provides different types of exploration with mods like Thaumcraft and Applied Energistics 2. Those being the two core mods of this modpack, there is still a lot to discover for you, the protagonist in this journey. You are to create your own story and thrive on the skills that you accumulate throughout. This modpack isn't something to be conquered alone, but with your friends all together as one power that can defeat anything. Please enjoy.
-
- 
-
-This modpack does require Optifine's latest version for 1.12.2. I have tried most modpack, but most fail. So, take it with a grain of salt.
+> College Factions is an idea that I came up with in 2018, but never had time to actually execute. Over the time, I went through a bunch of hoops to be able to make it an actual reality now. It provides different types of exploration with mods like Thaumcraft and Applied Energistics 2. Those being the two core mods of this modpack, there is still a lot to discover for you, the protagonist in this journey. You are to create your own story and thrive on the skills that you accumulate throughout. This modpack isn't something to be conquered alone, but with your friends all together as one power that can defeat anything. Please enjoy. This modpack does require Optifine's latest version for 1.12.2. I have tried most modpack, but most fail. So, take it with a grain of salt.
 
 ### 🏠 [Homepage](https://github.com/captainploo/CollegeFactions)
 
