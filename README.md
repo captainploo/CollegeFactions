@@ -27,9 +27,17 @@
 
 - OptiFine 1.12.2 HD U F5
 
+- 8GB of RAM for best experience.
+
 ## How to Install
 
-1. Go to the [College Factions Website](https://www.curseforge.com/minecraft/modpacks/college-factions)   
+1. Go to the [College Factions Website](https://www.curseforge.com/minecraft/modpacks/college-factions).
+
+2. Download and wait for the modpack to launch.
+
+3. Double check that you have at least 8G of RAM dedicated.
+
+4. Load and have fun!
 
 ## Usage
 
