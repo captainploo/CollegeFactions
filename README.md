@@ -39,17 +39,13 @@
 
 4. Load and have fun!
 
-## Usage
+## Crashes
 
-```sh
-npm run start
-```
+> If you have any crashes please make a report of it and make sure that you have all of your minecraft logs, and screenshot of your specs to help me make the most accurate solution.
 
-## Run tests
+## Did you know I stream?
 
-```sh
-npm run test
-```
+> If you haven't already visited my [Twitch](https://www.twitch.tv/captainploo) please follow and pass the word. Thank you, and have fun!
 
 ## Author
 
