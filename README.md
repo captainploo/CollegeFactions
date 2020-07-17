@@ -21,13 +21,15 @@
 
 ## Prerequisites
 
+- Minecraft Version: 1.12.2
 
+- Forge 14.23.5.2854
 
-## Install
+- OptiFine 1.12.2 HD U F5
 
-```sh
-npm install
-```
+## How to Install
+
+1. Go to the [College Factions Website](https://www.curseforge.com/minecraft/modpacks/college-factions)   
 
 ## Usage
 
